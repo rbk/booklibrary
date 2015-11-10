@@ -1,0 +1,36 @@
+1	Undaunted Courage	Stephen E. Ambrose	TouchStone	0-684-82697-6
+2	The World As I See It	Albert Einstein	Open Road	978-1-4532-0498-6
+3	PHP and MySQL Web Development Fourth Edtion	Luke Welling, Laura Thompson	Addison-Wesley	978-0-672-32916-6
+4	To kill a mocking Bird	Harper Lee	PUBLISHER	ISBN
+5	Murach's Javascript and DOM Scripting	Ray Harris	Murach	978-1-890774-55-4
+6	Sing You Home	Jodi Picoult	na	na
+7	Brand Against The Machine	John Morgan	Wiley	978-1-118-10352-4
+8	Lone Wolf	Jodi Picoult	NAA	ISBN
+9	Metaphysics: a contemporary introduction	Michael J. Loux	Routledge	0-415-26107-6
+10	aaa	ddd	ddd	ddd
+11	ddd	ddd	ddd	ddd
+12	cccccc	author	pub	num
+13	eee	author	pub	num
+14	fff	author	pub	num
+15	ggg	author	pub	num
+16	hhh	author	pub	num
+17	jjj	author	pub	num
+18	kkk	author	pub	num
+19	lll	author	pub	num
+20	pp	author	pub	num
+21	iii	author	pub	num
+22	uuuu	author	pub	num
+23	yyyy	author	pub	num
+24	tttt	author	pub	num
+25	rrrr	author	pub	num
+26	eeee	author	pub	num
+27	www	author	pub	num
+28	xx	author	pub	num
+29	cc	author	pub	num
+30	v	author	pub	num
+31	n	author	pub	num
+32	mm	author	pub	num
+33	new book	AUTHOR	PUBLISHER	ISBN
+34	aksjhdfljashdfk	AUTHOR	unknown	ISBN
+35	new book	AUTHOR	unknown	ISBN
+36	new book	Harper Lee	someoneelse	1231231
